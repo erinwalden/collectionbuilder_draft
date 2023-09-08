@@ -5,5 +5,5 @@ success,#99ffcc
 info,	#e6ff99
 warning,	#ff99e6
 danger,#ff9999
-light,
-dark,
+light, #F6D9FA
+dark, #D9FAE2 
